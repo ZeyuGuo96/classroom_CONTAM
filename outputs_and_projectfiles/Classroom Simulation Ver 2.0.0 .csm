@@ -1,0 +1,60 @@
+Project:  C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\Classroom Simulation Ver 2.0.0 .prj
+
+1	contaminants
+Name	EffDens	MeanDiameter
+SARS-CoV-2	  1000	 1e-06
+
+Contaminant source/sink summary.
+10	source/sinks
+s/s#	type	species	zn#	As	mult	Xmin	Xmax	Ymin	Ymax	Zmin	Zmax	released	removed	stored [kg]
+1	drs	SARS-CoV-2	1	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.094166e-10	0
+2	drs	SARS-CoV-2	2	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.541836e-15	0
+3	drs	SARS-CoV-2	3	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.745041e-19	0
+4	ccf	SARS-CoV-2	1	   0	   1	   0	   0	   0	   0	   0	   0	1.492257e-10	0.000000e+00	0
+5	drs	SARS-CoV-2	4	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.787082e-12	0
+6	drs	SARS-CoV-2	5	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.544178e-16	0
+7	drs	SARS-CoV-2	6	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.822183e-23	0
+8	drs	SARS-CoV-2	7	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	3.902936e-14	0
+9	drs	SARS-CoV-2	8	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	1.613026e-17	0
+10	drs	SARS-CoV-2	9	   0	   1	   0	   0	   0	   0	   0	   0	0.000000e+00	6.216229e-21	0
+
+Filter challenge summary.
+6	filters
+path	SARS-CoV-2	element
+1d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+2d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+3d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+4d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+5d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+6d	0.000000e+00	KB_MERV-16
+--	0.000000e+00	downstream
+
+Filter loading summary.
+6	filters
+path	SARS-CoV-2	element	ns
+1d	0.000000e+00	KB_MERV-16	0
+2d	0.000000e+00	KB_MERV-16	0
+3d	0.000000e+00	KB_MERV-16	0
+4d	0.000000e+00	KB_MERV-16	0
+5d	0.000000e+00	KB_MERV-16	0
+6d	0.000000e+00	KB_MERV-16	0
+
+Filter breakthrough summary.
+0	filters
+path	element	nc
+	contaminant	date	time	efficiency
+
+Interactions with ambient.
+contaminant	mass from	mass to [kg]
+SARS-CoV-2	0.00000e+00	6.94972e-12
+
+Simulation time:
+22500	seconds
+6.25	hours
+0.260417	days
+

@@ -1,0 +1,223 @@
+Summary values from database of comm. & inst. airtightness values
+flow|duct elements:
+73
+1 23 plr_leak3 WLEXAS_N+S
+Exterior wall, assembly, mean plus one standard deviation
+ 9.60744e-008 0.000666245 0.65 1 4 0 0 0.00058 2 2 2 0
+2 23 plr_leak3 WLEXAS_N-S
+Exterior wall, assembly, mean minus one standard deviation
+ 1.7264e-008 0.000172305 0.65 1 4 0 0 0.00015 2 2 2 0
+3 23 plr_leak3 WLEXAS_NAV
+Exterior wall, assembly, mean
+ 5.43026e-008 0.000425018 0.65 1 4 0 0 0.00037 2 2 2 0
+4 23 plr_leak3 WLEXAS_NMN
+Exterior wall, assembly, minimum
+ 2.17591e-008 0.000206766 0.65 1 4 0 0 0.00018 2 2 2 0
+5 23 plr_leak3 WLEXAS_NMX
+Exterior wall, assembly, maximum
+ 1.06706e-007 0.00072368 0.65 1 4 0 0 0.00063 2 2 2 0
+6 23 plr_leak3 WLEXCP_C+S
+Exterior wall, concrete panel, mean plus one standard deviation
+ 1.19766e-007 0.000792602 0.65 1 4 0 0 0.00069 2 2 2 0
+7 23 plr_leak3 WLEXCP_C-S
+Exterior wall, concrete panel, mean minus one standard deviation
+ 1.30059e-008 0.000137844 0.65 1 4 0 0 0.00012 2 2 2 0
+8 23 plr_leak3 WLEXCP_CAV
+Exterior wall, concrete panel, mean
+ 5.99507e-008 0.000459479 0.65 1 4 0 0 0.0004 2 2 2 0
+9 23 plr_leak3 WLEXCP_CMN
+Exterior wall, concrete panel, minimum
+ 1.1646e-008 0.000126357 0.65 1 4 0 0 0.00011 2 2 2 0
+10 23 plr_leak3 WLEXCP_CMX
+Exterior wall, concrete panel, maximum
+ 1.9181e-007 0.0011487 0.65 1 4 0 0 0.001 2 2 2 0
+11 23 plr_leak3 WLEXCW_C+S
+Exterior wall, curtain wall, mean plus one standard deviation
+ 9.18893e-008 0.000643271 0.65 1 4 0 0 0.00056 2 2 2 0
+12 23 plr_leak3 WLEXCW_CAV
+Exterior wall, curtain wall, mean
+ 3.64034e-008 0.000310149 0.65 1 4 0 0 0.00027 2 2 2 0
+13 23 plr_leak3 WLEXCW_CMN
+Exterior wall, metal, minimum
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 0 8e-005 2 2 2 0
+14 23 plr_leak3 WLEXCW_CMX
+Exterior wall, curtain wall, maximum
+ 1.19766e-007 0.000792602 0.65 1 4 0 0 0.00069 2 2 2 0
+15 23 plr_leak3 WLEXFRMA_C+S
+Exterior wall, frame/masonry, mean plus one standard deviation
+ 2.7284e-007 0.00151628 0.65 1 4 0 0 0.00132 2 2 2 0
+16 23 plr_leak3 WLEXFRMA_C-S
+Exterior wall, frame/masonry, mean minus one standard deviation
+ 7.75639e-008 0.000562862 0.65 1 4 0 0 0.00049 2 2 2 0
+17 23 plr_leak3 WLEXFRMA_CAV
+Exterior wall, frame/masonry, mean
+ 1.70171e-007 0.00104532 0.65 1 4 0 0 0.00091 2 2 2 0
+18 23 plr_leak3 WLEXFRMA_CMN
+Exterior wall, frame/masonry, minimum
+ 6.96176e-008 0.000516914 0.65 1 4 0 0 0.00045 2 2 2 0
+19 23 plr_leak3 WLEXFRMA_CMX
+Exterior wall, frame/masonry, maximum
+ 4.59395e-007 0.00228591 0.65 1 4 0 0 0.00199 2 2 2 0
+20 23 plr_leak3 WLEXFR_C+S
+Exterior wall, frame, mean plus one standard deviation
+ 2.67604e-007 0.00149331 0.65 1 4 0 0 0.0013 2 2 2 0
+21 23 plr_leak3 WLEXFR_C-S
+Exterior wall, frame, mean minus one standard deviation
+ 6.57142e-008 0.00049394 0.65 1 4 0 0 0.00043 2 2 2 0
+22 23 plr_leak3 WLEXFR_CAV
+Exterior wall, frame, mean
+ 1.58393e-007 0.000987881 0.65 1 4 0 0 0.00086 2 2 2 0
+23 23 plr_leak3 WLEXFR_CMN
+Exterior wall, frame, minimum
+ 4.33803e-008 0.000356097 0.65 1 4 0 0 0.00031 2 2 2 0
+24 23 plr_leak3 WLEXFR_CMX
+Exterior wall, frame, maximum
+ 3.37281e-007 0.00179197 0.65 1 4 0 0 0.00156 2 2 2 0
+25 23 plr_leak3 WLEXHC_I+S
+Exterior wall, healthcare, mean plus one standard deviation
+ 1.33136e-007 0.000861524 0.65 1 4 0 0 0.00075 2 2 2 0
+26 23 plr_leak3 WLEXHC_I-S
+Exterior wall, healthcare, mean minus one standard deviation
+ 5.43026e-008 0.000425018 0.65 1 4 0 0 0.00037 2 2 2 0
+27 23 plr_leak3 WLEXHC_IAV
+Exterior wall, healthcare, mean
+ 9.18893e-008 0.000643271 0.65 1 4 0 0 0.00056 2 2 2 0
+28 23 plr_leak3 WLEXHC_IMN
+Exterior wall, healthcare, minimum
+ 5.43026e-008 0.000425018 0.65 1 4 0 0 0.00037 2 2 2 0
+29 23 plr_leak3 WLEXHC_IMX
+Exterior wall, healthcare, maximum
+ 1.35393e-007 0.000873011 0.65 1 4 0 0 0.00076 2 2 2 0
+30 23 plr_leak3 WLEXID_N+S
+Exterior wall, industrial, mean plus one standard deviation
+ 1.42212e-007 0.000907472 0.65 1 4 0 0 0.00079 2 2 2 0
+31 23 plr_leak3 WLEXID_NAV
+Exterior wall, industrial, mean
+ 5.61721e-008 0.000436505 0.65 1 4 0 0 0.00038 2 2 2 0
+32 23 plr_leak3 WLEXID_NMN
+Exterior wall, industrial, minimum
+ 3.22525e-009 4.59479e-005 0.65 1 4 0 0 4e-005 2 2 2 0
+33 23 plr_leak3 WLEXID_NMX
+Exterior wall, school, maximum
+ 3.37281e-007 0.00179197 0.65 1 4 0 0 0.00156 2 2 2 0
+34 23 plr_leak3 WLEXMA_C+S
+Exterior wall, masonry, mean plus one standard deviation
+ 1.19766e-007 0.000792602 0.65 1 4 0 0 0.00069 2 2 2 0
+35 23 plr_leak3 WLEXMA_C-S
+Exterior wall, masonry, mean minus one standard deviation
+ 1.7264e-008 0.000172305 0.65 1 4 0 0 0.00015 2 2 2 0
+36 23 plr_leak3 WLEXMA_CAV
+Exterior wall, masonry, mean
+ 6.37806e-008 0.000482453 0.65 1 4 0 0 0.00042 2 2 2 0
+37 23 plr_leak3 WLEXMA_CMN
+Exterior wall, masonry, minimum
+ 5.3959e-009 6.89219e-005 0.65 1 4 0 0 6e-005 2 2 2 0
+38 23 plr_leak3 WLEXMA_CMX
+Exterior wall, masonry, maximum
+ 2.26515e-007 0.00130952 0.65 1 4 0 0 0.00114 2 2 2 0
+39 23 plr_leak3 WLEXME_C+S
+Exterior wall, metal, mean plus one standard deviation
+ 1.26414e-007 0.000827063 0.65 1 4 0 0 0.00072 2 2 2 0
+40 23 plr_leak3 WLEXME_C-S
+Exterior wall, metal, mean minus one standard deviation
+ 2.33047e-008 0.000218253 0.65 1 4 0 0 0.00019 2 2 2 0
+41 23 plr_leak3 WLEXME_CAV
+Exterior wall, metal, mean
+ 7.1587e-008 0.000528401 0.65 1 4 0 0 0.00046 2 2 2 0
+42 23 plr_leak3 WLEXME_CMN
+Exterior wall, metal, minimum
+ 2.48724e-008 0.00022974 0.65 1 4 0 0 0.0002 2 2 2 0
+43 23 plr_leak3 WLEXME_CMX
+Exterior wall, metal, maximum
+ 1.44501e-007 0.000918959 0.65 1 4 0 0 0.0008 2 2 2 0
+44 23 plr_leak3 WLEXMN_C+S
+Exterior wall, manufactured, mean plus one standard deviation
+ 1.21974e-007 0.000804089 0.65 1 4 0 0 0.0007 2 2 2 0
+45 23 plr_leak3 WLEXMN_C-S
+Exterior wall, manufactured, mean minus one standard deviation
+ 1.7264e-008 0.000172305 0.65 1 4 0 0 0.00015 2 2 2 0
+46 23 plr_leak3 WLEXMN_CAV
+Exterior wall, manufactured, mean
+ 6.57142e-008 0.00049394 0.65 1 4 0 0 0.00043 2 2 2 0
+47 23 plr_leak3 WLEXMN_CMN
+Exterior wall, manufactured, minimum
+ 3.13485e-008 0.000275688 0.65 1 4 0 0 0.00024 2 2 2 0
+48 23 plr_leak3 WLEXMN_CMX
+Exterior wall, manufactured, maximum
+ 1.60734e-007 0.000999368 0.65 1 4 0 0 0.00087 2 2 2 0
+49 23 plr_leak3 WLEXOF_C+S
+Exterior wall, office building, mean plus one standard deviation
+ 1.39931e-007 0.000895985 0.65 1 4 0 0 0.00078 2 2 2 0
+50 23 plr_leak3 WLEXOF_C-S
+Exterior wall, office building, mean minus one standard deviation
+ 3.22525e-009 4.59479e-005 0.65 1 4 0 0 4e-005 2 2 2 0
+51 23 plr_leak3 WLEXOF_CAV
+Exterior wall, office building, mean
+ 6.18594e-008 0.000470966 0.65 1 4 0 0 0.00041 2 2 2 0
+52 23 plr_leak3 WLEXOF_CMN
+Exterior wall, office building, minimum
+ 5.3959e-009 6.89219e-005 0.65 1 4 0 0 6e-005 2 2 2 0
+53 23 plr_leak3 WLEXOF_CMX
+Exterior wall, office building, maximum
+ 4.59395e-007 0.00228591 0.65 1 4 0 0 0.00199 2 2 2 0
+54 23 plr_leak3 WLEXRE_C+S
+Exterior wall, retail, mean plus one standard deviation
+ 2.04064e-007 0.00120613 0.65 1 4 0 0 0.00105 2 2 2 0
+55 23 plr_leak3 WLEXRE_C-S
+Exterior wall, retail, mean minus one standard deviation
+ 4.69629e-008 0.00037907 0.65 1 4 0 0 0.00033 2 2 2 0
+56 23 plr_leak3 WLEXRE_CAV
+Exterior wall, retail, mean
+ 1.19766e-007 0.000792602 0.65 1 4 0 0 0.00069 2 2 2 0
+57 23 plr_leak3 WLEXRE_CMN
+Exterior wall, retail, minimum
+ 6.56198e-009 8.04089e-005 0.65 1 4 0 0 7e-005 2 2 2 0
+58 23 plr_leak3 WLEXRE_CMX
+Exterior wall, retail, maximum
+ 2.41753e-007 0.00137844 0.65 1 4 0 0 0.0012 2 2 2 0
+59 23 plr_leak3 WLEXRS_C+S
+Exterior wall, restaurant, mean plus one standard deviation
+ 8.36402e-008 0.000597323 0.65 1 4 0 0 0.00052 2 2 2 0
+60 23 plr_leak3 WLEXRS_C-S
+Exterior wall, restaurant, mean minus one standard deviation
+ 2.97001e-008 0.000264201 0.65 1 4 0 0 0.00023 2 2 2 0
+61 23 plr_leak3 WLEXRS_CAV
+Exterior wall, restaurant, mean
+ 5.61721e-008 0.000436505 0.65 1 4 0 0 0.00038 2 2 2 0
+62 23 plr_leak3 WLEXRS_CMN
+Exterior wall, restaurant, minimum
+ 1.58165e-008 0.000160818 0.65 1 4 0 0 0.00014 2 2 2 0
+63 23 plr_leak3 WLEXRS_CMX
+Exterior wall, restaurant, maximum
+ 8.98116e-008 0.000631784 0.65 1 4 0 0 0.00055 2 2 2 0
+64 23 plr_leak3 WLEXSC_I+S
+Exterior wall, school, mean plus one standard deviation
+ 8.1604e-008 0.000585836 0.65 1 4 0 0 0.00051 2 2 2 0
+65 23 plr_leak3 WLEXSC_I-S
+Exterior wall, school, mean minus one standard deviation
+ 1.03191e-008 0.00011487 0.65 1 4 0 0 1e-004 2 2 2 0
+66 23 plr_leak3 WLEXSC_IAV
+Exterior wall, school, mean
+ 4.33803e-008 0.000356097 0.65 1 4 0 0 0.00031 2 2 2 0
+67 23 plr_leak3 WLEXSC_IMN
+Exterior wall, school, minimum
+ 3.22525e-009 4.59479e-005 0.65 1 4 0 0 4e-005 2 2 2 0
+68 23 plr_leak3 WLEXSC_IMX
+Exterior wall, school, maximum
+ 1.58393e-007 0.000987881 0.65 1 4 0 0 0.00086 2 2 2 0
+69 23 plr_leak3 WLEXSP_C+S
+Exterior wall, sports facility, mean plus one standard deviation
+ 1.94248e-007 0.00116019 0.65 1 4 0 0 0.00101 2 2 2 0
+70 23 plr_leak3 WLEXSP_C-S
+Exterior wall, sports facility, mean minus one standard deviation
+ 7.55603e-008 0.000551375 0.65 1 4 0 0 0.00048 2 2 2 0
+71 23 plr_leak3 WLEXSP_CAV
+Exterior wall, sports facility, mean
+ 1.30887e-007 0.000850037 0.65 1 4 0 0 0.00074 2 2 2 0
+72 23 plr_leak3 WLEXSP_CMN
+Exterior wall, sports facility, minimum
+ 5.43026e-008 0.000425018 0.65 1 4 0 0 0.00037 2 2 2 0
+73 23 plr_leak3 WLEXSP_CMX
+Exterior wall, sports facility, maximum
+ 1.86955e-007 0.00112572 0.65 1 4 0 0 0.00098 2 2 2 0
+-999 end library

@@ -1,0 +1,217 @@
+Assorted commercial, institutional and high-rise resid values.
+flow|duct elements:
+71
+1 23 plr_leak1 DREL14_CMN
+Elevator doors, 7 office buildings, minimum
+ 7.9178e-006 0.0215381 0.65 1 4 0.01875 0 0 2 2 2 0
+2 23 plr_leak1 DREL14_CMX
+
+ 1.2136e-005 0.0301533 0.65 1 4 0.02625 0 0 2 2 2 0
+3 23 plr_leak1 DRSR14_CMN
+Stair shaft doors, 8 office buildings, minimum
+ 2.47472e-006 0.00861524 0.65 1 4 0.0075 0 0 2 2 2 0
+4 23 plr_leak1 DRSR14_CMX
+Stair shaft doors, 8 office buildings, maximum
+ 7.9178e-006 0.0215381 0.65 1 4 0.01875 0 0 2 2 2 0
+5 23 plr_leak3 FLCEAP17_RAV
+Floor/ceiling interface: 5 story apartment building, average
+ 2.42976e-009 3.67583e-005 0.65 1 4 0 0 3.2e-005 2 2 2 0
+6 23 plr_leak3 FLCEAP17_RMN
+Floor/ceiling interface: 5 story apartment building, minimum
+ 6.26538e-010 1.26357e-005 0.65 1 4 0 0 1.1e-005 2 2 2 0
+7 23 plr_leak3 FLCEAP17_RMX
+Floor/ceiling interface: 5 story apartment building, maximum
+ 3.53532e-009 4.9394e-005 0.65 1 4 0 0 4.3e-005 2 2 2 0
+8 23 plr_leak3 FLCO15_CMN
+Floor: Office building, reinforced concrete, minimum
+ 1.17061e-009 2.06766e-005 0.65 1 4 0 0 1.8e-005 2 2 2 0
+9 23 plr_leak3 FLCO15_CMX
+Floor: Office building, reinforced concrete, maximum
+ 2.72244e-009 4.02044e-005 0.65 1 4 0 0 3.5e-005 2 2 2 0
+10 23 plr_leak3 WLELCC14A_C
+Elevator shaft wall, cast-in-place concrete, 17 story office bldg
+ 9.08492e-008 0.000637528 0.65 1 4 0 0 0.000555 2 2 2 0
+11 23 plr_leak3 WLELCC14B_C
+Elevator shaft wall, cast-in-place concrete, 14 story office bldg
+ 2.8883e-008 0.000258457 0.65 1 4 0 0 0.000225 2 2 2 0
+12 23 plr_leak3 WLELCC14C_C
+Elevator shaft wall, cast-in-place concrete, 12 story office bldg
+ 2.05391e-008 0.000197576 0.65 1 4 0 0 0.000172 2 2 2 0
+13 23 plr_leak3 WLELCC14E_C
+Elevator shaft wall, cast-in-place concrete, 16 story office bldg
+ 7.16251e-009 8.61524e-005 0.65 1 4 0 0 7.5e-005 2 2 2 0
+14 23 plr_leak3 WLELCC14G_C
+
+ 2.8883e-008 0.000258457 0.65 1 4 0 0 0.000225 2 2 2 0
+15 23 plr_leak3 WLELCOBL14DC
+Elevator shaft wall, concrete block, 6 story office building
+ 9.08492e-008 0.000637528 0.65 1 4 0 0 0.000555 2 2 2 0
+16 23 plr_leak3 WLELTIBL14FC
+Elevator shaft wall, clay tile block, 10 story office building
+ 1.03492e-007 0.00070645 0.65 1 4 0 0 0.000615 2 2 2 0
+17 23 plr_leak3 WLEX10_NAV
+Exterior wall, average
+ 9.79805e-009 0.000110275 0.65 1 4 0 0 9.6e-005 2 2 2 0
+18 23 plr_leak3 WLEX10_NMN
+Exterior wall, minimum
+ 4.06502e-009 5.51375e-005 0.65 1 4 0 0 4.8e-005 2 2 2 0
+19 23 plr_leak3 WLEX10_NMX
+Exterior wall, maximum
+ 3.13485e-008 0.000275688 0.65 1 4 0 0 0.00024 2 2 2 0
+20 23 plr_leak3 WLEX16A_R
+Exterior wall: Individual apartment in a high-rise building
+ 2.28387e-008 0.000214807 0.65 1 4 0 0 0.000187 2 2 2 0
+21 23 plr_leak3 WLEX16B_R
+Exterior wall: Individual apartment in a high-rise building
+ 3.06869e-008 0.000271093 0.65 1 4 0 0 0.000236 2 2 2 0
+22 23 plr_leak3 WLEX16C_R
+Exterior wall: Individual apartment in a high-rise building
+ 3.01926e-008 0.000267647 0.65 1 4 0 0 0.000233 2 2 2 0
+23 23 plr_leak3 WLEX16D_R
+Exterior wall: Individual apartment in a high-rise building
+ 1.82929e-008 0.000180346 0.65 1 4 0 0 0.000157 2 2 2 0
+24 23 plr_leak3 WLEXAP18_R
+Exterior wall: Multi-story apartment building
+ 1.66818e-008 0.00016771 0.65 1 4 0 0 0.000146 2 2 2 0
+25 23 plr_leak3 WLEXAP19D_R
+Exterior wall: Multi-story apartment building D
+ 1.9484e-008 0.000189535 0.65 1 4 0 0 0.000165 2 2 2 0
+26 23 plr_leak3 WLEXAP19V_R
+Exterior wall: Multi-story apartment building V
+ 3.50399e-008 0.000300959 0.65 1 4 0 0 0.000262 2 2 2 0
+27 23 plr_leak3 WLEXBR6H_C
+Exterior wall: Brick veneer, Building H
+ 5.62521e-009 7.12193e-005 0.65 1 4 0 0 6.2e-005 2 2 2 0
+28 23 plr_leak3 WLEXBR6N_C
+Exterior wall: Brick veneer, Building N
+ 3.05219e-008 0.000269944 0.65 1 4 0 0 0.000235 2 2 2 0
+29 23 plr_leak3 WLEXBR6P_C
+Exterior wall: Brick veneer, Building P
+ 1.21862e-008 0.000130952 0.65 1 4 0 0 0.000114 2 2 2 0
+30 23 plr_leak3 WLEXBRBL17_R
+Exterior wall: 5 story apartment building, brick and block backup
+ 3.38559e-008 0.000292918 0.65 1 4 0 0 0.000255 2 2 2 0
+31 23 plr_leak3 WLEXCW8A_C
+Exterior wall: Glass and metal curtain wall, Building A
+ 8.09952e-008 0.00058239 0.65 1 4 0 0 0.000507 2 2 2 0
+32 23 plr_leak3 WLEXCW9D_C
+Exterior wall: Curtain walll, Building D
+ 2.53469e-008 0.000233186 0.65 1 4 0 0 0.000203 2 2 2 0
+33 23 plr_leak3 WLEXCW9E_C
+Exterior wall: Curtain wall, Building E
+ 1.21862e-008 0.000130952 0.65 1 4 0 0 0.000114 2 2 2 0
+34 23 plr_leak3 WLEXCW9H_C
+Exterior wall: Curtain wall, Building H
+ 7.52809e-009 8.95985e-005 0.65 1 4 0 0 7.8e-005 2 2 2 0
+35 23 plr_leak3 WLEXPC6A_C
+Exterior wall: Precast concrete panel, Building A
+ 2.7909e-008 0.000251565 0.65 1 4 0 0 0.000219 2 2 2 0
+36 23 plr_leak3 WLEXPC6C_C
+Exterior wall: Precast concrete panel, Building C
+ 2.42428e-008 0.000225145 0.65 1 4 0 0 0.000196 2 2 2 0
+37 23 plr_leak3 WLEXPC6S_C
+Exterior wall: Precast concrete panel, Building S
+ 4.17881e-008 0.000345758 0.65 1 4 0 0 0.000301 2 2 2 0
+38 23 plr_leak3 WLEXPC7O_C
+Exterior wall: Precast concrete panel, Building O
+ 1.19326e-007 0.000790305 0.65 1 4 0 0 0.000688 2 2 2 0
+39 23 plr_leak3 WLEXPC8B_C
+Exterior wall: Precast concrete panel, Building B
+ 3.31833e-008 0.000288323 0.65 1 4 0 0 0.000251 2 2 2 0
+40 23 plr_leak3 WLEXPC9A_C
+Exterior wall: Precast concrete panel, Building A
+ 5.22618e-008 0.000412383 0.65 1 4 0 0 0.000359 2 2 2 0
+41 23 plr_leak3 WLEXPC9B_C
+Exterior wall: Precast concrete panel, Building B
+ 2.16058e-008 0.000205617 0.65 1 4 0 0 0.000179 2 2 2 0
+42 23 plr_leak3 WLEXPC9C_C
+Exterior wall: Precast concrete panel, Building C
+ 2.16058e-008 0.000205617 0.65 1 4 0 0 0.000179 2 2 2 0
+43 23 plr_leak3 WLEXPC9F_C
+Exterior wall: Precast concrete panel, Building F
+ 1.21862e-008 0.000130952 0.65 1 4 0 0 0.000114 2 2 2 0
+44 23 plr_leak3 WLEXPC9G_C
+Exterior wall: Precast concrete panel, Building G
+ 1.97843e-008 0.000191833 0.65 1 4 0 0 0.000167 2 2 2 0
+45 23 plr_leak3 WLEXRE13_CAV
+Exterior wall, retail stores/shopping malls, average
+ 1.40843e-007 0.00090058 0.65 1 4 0 0 0.000784 2 2 2 0
+46 23 plr_leak3 WLEXRE13_CMN
+Exterior wall, retail stores/shopping malls, minimum
+ 5.99507e-008 0.000459479 0.65 1 4 0 0 0.0004 2 2 2 0
+47 23 plr_leak3 WLEXRE13_CMX
+Exterior wall, retail stores/shopping malls, maximum
+ 2.21483e-007 0.00128654 0.65 1 4 0 0 0.00112 2 2 2 0
+48 23 plr_leak3 WLEXSC11_IAV
+Exterior wall, school, average
+ 1.63923e-008 0.000165413 0.65 1 4 0 0 0.000144 2 2 2 0
+49 23 plr_leak3 WLEXSC11_IMN
+Exterior walll, school, minimum
+ 4.06502e-009 5.51375e-005 0.65 1 4 0 0 4.8e-005 2 2 2 0
+50 23 plr_leak3 WLEXSC11_IMX
+Exterior wall, school, maximum
+ 1.87377e-008 0.000183792 0.65 1 4 0 0 0.00016 2 2 2 0
+51 23 plr_leak3 WLEXSC12_IAV
+Exterior wall, school, average
+ 6.92251e-008 0.000514617 0.65 1 4 0 0 0.000448 2 2 2 0
+52 23 plr_leak3 WLEXSC12_IMN
+Exterior wall, school, minimum
+ 4.51641e-008 0.000367583 0.65 1 4 0 0 0.00032 2 2 2 0
+53 23 plr_leak3 WLEXSC12_IMX
+Exterior wall, school, maximum
+ 7.55603e-008 0.000551375 0.65 1 4 0 0 0.00048 2 2 2 0
+54 23 plr_leak3 WLEXTV6AA_C
+Exterior wall: Tile veneer, Building AA
+ 1.49612e-008 0.000153926 0.65 1 4 0 0 0.000134 2 2 2 0
+55 23 plr_leak3 WLINAP17_RAV
+Interior partition: 5 story apartment building, average
+ 1.19155e-008 0.000128654 0.65 1 4 0 0 0.000112 2 2 2 0
+56 23 plr_leak3 WLINAP17_RMN
+Interior partition: 5 story apartment building, minimum
+ 2.92139e-009 4.25018e-005 0.65 1 4 0 0 3.7e-005 2 2 2 0
+57 23 plr_leak3 WLINAP17_RMX
+Interior partition: 5 story apartment building, maximum
+ 2.8883e-008 0.000258457 0.65 1 4 0 0 0.000225 2 2 2 0
+58 23 plr_leak3 WLSRCC14A_C
+
+ 3.74531e-009 5.16914e-005 0.65 1 4 0 0 4.5e-005 2 2 2 0
+59 23 plr_leak3 WLSRCC14B_C
+
+ 3.53024e-010 8.04089e-006 0.65 1 4 0 0 7e-006 2 2 2 0
+60 23 plr_leak3 WLSRCC14C_C
+
+ 9.28776e-010 1.72305e-005 0.65 1 4 0 0 1.5e-005 2 2 2 0
+61 23 plr_leak3 WLSRCC14D_C
+
+ 3.32793e-009 4.70966e-005 0.65 1 4 0 0 4.1e-005 2 2 2 0
+62 23 plr_leak3 WLSRCC14E_C
+
+ 1.81199e-009 3.00356e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+63 23 plr_leak3 WLSRCC14F_C
+
+ 1.61039e-008 0.000163115 0.65 1 4 0 0 0.000142 2 2 2 0
+64 23 plr_leak3 WLSRCC14H_C
+
+ 2.92139e-009 4.25018e-005 0.65 1 4 0 0 3.7e-005 2 2 2 0
+65 23 plr_leak3 WLSRTIBL14GC
+
+ 6.20712e-009 7.69628e-005 0.65 1 4 0 0 6.7e-005 2 2 2 0
+66 23 plr_leak2 WNIO6AA_CAV
+Inoperable window, Building AA, typical
+ 5.16865e-009 6.66245e-005 0.65 1 4 0 5.8e-005 0 2 2 2 0
+67 23 plr_leak2 WNIO6A_CMN
+Inoperable window, Building A, minimum
+ 5.16865e-009 6.66245e-005 0.65 1 4 0 5.8e-005 0 2 2 2 0
+68 23 plr_leak2 WNIO6A_CMX
+Inoperable window, Building A, maximum
+ 2.06908e-008 0.000198725 0.65 1 4 0 0.000173 0 2 2 2 0
+69 23 plr_leak2 WNIO6N_CAV
+Inoperable window, Building N, typical
+ 8.52128e-009 9.87881e-005 0.65 1 4 0 8.6e-005 0 2 2 2 0
+70 23 plr_leak2 WNOO6C_CMN
+Operable window, Building C, minimum
+ 2.06908e-008 0.000198725 0.65 1 4 0 0.000173 0 2 2 2 0
+71 23 plr_leak2 WNOO6C_CMX
+Operable window, Building C, maximum
+ 4.98716e-008 0.00039745 0.65 1 4 0 0.000346 0 2 2 2 0
+-999 end library

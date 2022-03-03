@@ -1,0 +1,320 @@
+Program:  C:\Program Files (x86)\NIST\CONTAM 3.4.0.3\CONTAMX3.exe
+  Version:  3.4.0.1 release 32 bit
+  Compiler: Visual C++ 1929
+  Created:  Mon Dec  6 20:05:40 2021
+Project (_file_name):  C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\Classroom Simulation Ver 3.0.0 .prj
+cwd: C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\weatherdata
+prj arg = C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\Classroom Simulation Ver 3.0.0 .prj
+_pdrive C:, _pdir \Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\, _prjname Classroom Simulation Ver 3.0.0 , _pext .prj
+  Updated:  Thu Mar  3 13:57:12 2022
+Calling arguments (3):
+	argv[0] = C:\Program Files (x86)\NIST\CONTAM 3.4.0.3\CONTAMX3.exe
+	argv[1] = C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\Classroom Simulation Ver 3.0.0 .prj
+	argv[2] = -d
+
+Reading project file: C:\Users\calme\OneDrive - University of Leeds\Dissertation\CONTAM Model\modelfiles\outputs_and_projectfiles\Classroom Simulation Ver 3.0.0 .prj
+Run Control section read successfully.
+Speices section read successfully.
+Level section read successfully.
+Day Schedule section read successfully.
+Week Schedule section read successfully.
+WindP Profile section read successfully.
+Kinetic Reaction section read successfully.
+CSFchk: particle filter: KB_MERV-16
+seg #    x            y            y'           y"
+   0   -9.0000e+00   9.9900e-01   0.0000e+00   0.0000e+00
+       -8.8239e+00   9.9900e-01   0.0000e+00   0.0000e+00
+   1   -8.8239e+00   9.9900e-01   0.0000e+00  -6.1432e-02
+    y' = 0 at x =  -8.1443e+00, y =   9.9427e-01
+       -8.0000e+00   9.9900e-01   0.0000e+00  -6.1432e-02
+   2   -8.0000e+00   9.9500e-01   1.0743e-02   8.7509e-02
+    y' = 0 at x =  -7.8491e+00, y =   9.9641e-01
+       -7.5229e+00   9.9500e-01   1.0743e-02   8.7509e-02
+   3   -7.5229e+00   9.7200e-01  -1.8698e-01  -9.1632e-01
+       -7.0969e+00   9.7200e-01  -1.8698e-01  -9.1632e-01
+   4   -7.0969e+00   8.1000e-01  -5.7181e-01  -8.9053e-01
+       -6.8539e+00   8.1000e-01  -5.7181e-01  -8.9053e-01
+   5   -6.8539e+00   6.8700e-01  -2.6645e-01   3.4034e+00
+    y' = 0 at x =  -6.7756e+00, y =   6.7657e-01
+       -6.6198e+00   6.8700e-01  -2.6645e-01   3.4034e+00
+   6   -6.6198e+00   7.1800e-01   5.3184e-01   3.4171e+00
+       -6.5528e+00   7.1800e-01   5.3184e-01   3.4171e+00
+   7   -6.5528e+00   7.6000e-01   7.0402e-01   1.7265e+00
+       -6.3010e+00   7.6000e-01   7.0402e-01   1.7265e+00
+   8   -6.3010e+00   9.3900e-01   5.0713e-01  -3.2902e+00
+       -6.2076e+00   9.3900e-01   5.0713e-01  -3.2902e+00
+   9   -6.2076e+00   9.7400e-01   2.6336e-01  -1.9285e+00
+       -6.0969e+00   9.7400e-01   2.6336e-01  -1.9285e+00
+  10   -6.0969e+00   9.9200e-01   6.7830e-02  -1.6042e+00
+       -6.0458e+00   9.9200e-01   6.7830e-02  -1.6042e+00
+  11   -6.0458e+00   9.9400e-01   2.2667e-02  -1.6166e-01
+    y' = 0 at x =  -5.8104e+00, y =   9.9606e-01
+       -5.6990e+00   9.9400e-01   2.2667e-02  -1.6166e-01
+  12   -5.6990e+00   9.9600e-01   0.0000e+00   0.0000e+00
+       -4.3010e+00   9.9600e-01   0.0000e+00   0.0000e+00
+Filter Element section read successfully.
+Filter section read successfully.
+Source/Sink Element section read successfully.
+Airflow Element section read successfully.
+Airflow Element section read successfully.
+Controls section read successfully.
+AHS section read successfully.
+Zone section read successfully.
+Zone CC section read successfully.
+Path section read successfully.
+Duct Junction section read successfully.
+Duct Junction CC section read successfully.
+Duct Segment section read successfully.
+Source/Sink section read successfully.
+Occupant Day Schedule section read successfully.
+Occupant Exposure section read successfully.
+Note section read successfully.
+Creating Envelope path lists:
+  19 envelope paths|terminals for WPC
+6 Duct Networks
+      network # 0 - jctns:
+      network # 1 - jctns:
+     1     2
+      network # 2 - jctns:
+     3     4
+      network # 3 - jctns:
+     5     6
+      network # 4 - jctns:
+     7     8
+      network # 5 - jctns:
+     9    10
+      network # 6 - jctns:
+    11    12
+
+  20 envelope paths|terminals|leaks for CSM/CEX
+Read PRJ : 57180 bytes allocated, 24412 freed, 32768 net
+Number of --
+      contaminants:    1
+     day schedules:   14
+    week schedules:   12
+           filters:    6
+         reactions:    0
+     wind profiles:    4
+   source elements:    3
+     flow elements:   11
+     airflow nodes:   24
+     airflow paths:   65
+      source/sinks:   10
+Airflow control --
+   cnvgSS: 1
+   tsdens: 0
+   densZP: 0
+   stackD: 0
+   dodMdt: 0
+
+Airflow Equations:
+  21 variable pressure nodes
+   3 constant pressure nodes
+  Number of equations: 24
+    Non-zero elements: 76
+Initial fill fraction: 0.132
+ Matrix Profile Analysis:
+      Average Profile: 6.48
+            Bandwidth: 12
+Determining equation reordering:
+Equations will be reordered.
+      Average Profile: 1.86
+            Bandwidth: 5
+
++---------+---------+-----
+|**  *                   |
+|**  *                   |
+|  **+*                  |
+|  **+*                  |
+|**++*+  *               |
+|  **+*  *               |
+|      **+*              |
+|      **+*              |
+|    **++*+   *          |
++      **+*   *          +
+|          ***+          |
+|          ***+          |
+|          ***+*         |
+|        **+++***        |
+|            ***+  *     |
+|             *+***+     |
+|               ***+     |
+|               ***+     |
+|              *+++***   |
++                  ***   +
+|                  ***   |
+|                     *  |
+|                      * |
+|                       *|
++---------+---------+-----
+
+24 by 24 matrix, 76 non-zeroes, 26 fill
+
+ Skyline Matrix:
+     Number of rows: 21
+     Lower Triangle: 39 elements
+     Upper Triangle: 0 elements
+     Fill fraction: 0.136
+Solve nonlinear equations by Newton-Raphson with variable trust region.
+  relcnvg = 1e-05, abscnvg = 2e-06, itmax = 30
+Solve Jacobian SLAE by symmetric SKYline method.
+
+Airflow calculation data:
+ Node | source | eqn
+    1 :    1z :    5
+    2 :    2z :    9
+    3 :    3z :    6
+    4 :    4z :   16
+    5 :    5z :   14
+    6 :    6z :   10
+    7 :    7z :   19
+    8 :    8z :   15
+    9 :    9z :   13
+   10 :   10z :   22
+   11 :   11z :   23
+   12 :    1t :    1
+   13 :    2t :    2
+   14 :    3t :    3
+   15 :    4t :    4
+   16 :    5t :   17
+   17 :    6t :   18
+   18 :    7t :    7
+   19 :    8t :    8
+   20 :    9t :   20
+   21 :   10t :   21
+   22 :   11t :   11
+   23 :   12t :   12
+   24 :    0z :   24
+  [z = zone, j = junction, t = terminal]
+ Link numbers vs. path & duct numbers:
+    1 -   10:    1p    2p    3p    4p    5p    6p    7p    8p    9p   10p
+   11 -   20:   11p   12p   13p   14p   15p   16p   17p   18p   19p   20p
+   21 -   30:   21p   22p   23p   24p   25p   26p   27p   28p   29p   30p
+   31 -   40:   31p   32p   33p   34p   35p   36p   37p   38p   39p   40p
+   41 -   50:   41p   42p   43p   44p   45p   46p   47p    1d    2d    3d
+   51 -   60:    4d    5d    6d    1t    2t    3t    4t    5t    6t    7t
+   61 -   70:    8t    9t   10t   11t   12t
+  [p = path, d = duct, t = terminal, l = leak]
+
+Trace Species Mass Transfer Equations:
+
+Set up Mf matrix:
+   0 boundary layer sink nodes
+   0 deposition/resuspension nodes
+  11 variable Mf zone nodes
+  12 variable Mf jctn nodes
+   1 constant Mf zone nodes
+   1 contaminants
+  Number of equations: 24
+    Non-zero elements: 122
+Initial fill fraction: 0.212
+ Matrix Profile Analysis:
+      Average Profile: 7.78
+            Bandwidth: 14
+Solve simultaneous linear equations by non-symmetric SKYline method.
+Determining equation reordering:
+Equations will be reordered.
+ Optimized Matrix:
+      Average Profile: 3.26
+            Bandwidth: 7
+
++---------+---------+-----
+|**    *                 |
+|**    *                 |
+|  **  +*                |
+|  **  +*                |
+|    **++*               |
+|    **++*               |
+|**++++*++*  **         *|
+|  **+++*+*  **         *|
+|    **++*+  ***        *|
++      **+*  ++*        *+
+|          **+++*       +|
+|          **+++*       +|
+|      ***+++**+***     *|
+|      ***+++**+***     *|
+|        **++++*+*+*    +|
+|          ****+*++*    *|
+|            ***+*++**  *|
+|            **+++**++***|
+|              **+**++++*|
++                *++**++++
+|                *++**+++|
+|                 *+++**+|
+|                 *+++**+|
+|      ****++**+****++++*|
++---------+---------+-----
+
+24 by 24 matrix, 122 non-zeroes, 86 fill
+
+ Skyline Matrix:
+     Number of rows: 23
+     Lower Triangle: 75 elements
+     Upper Triangle: 75 elements
+     Fill fraction: 0.327
+
+Trace contaminants
+ Node | source | SARS
+    1 :    1z :    7
+    2 :    2z :   10
+    3 :    3z :    8
+    4 :    4z :    9
+    5 :    5z :   15
+    6 :    6z :   17
+    7 :    7z :   18
+    8 :    8z :   19
+    9 :    9z :   16
+   10 :   10z :   13
+   11 :   11z :   14
+   12 :    1t :    1
+   13 :    2t :    2
+   14 :    3t :    3
+   15 :    4t :    4
+   16 :    5t :    5
+   17 :    6t :    6
+   18 :    7t :   20
+   19 :    8t :   21
+   20 :    9t :   22
+   21 :   10t :   23
+   22 :   11t :   11
+   23 :   12t :   12
+   24 :    0z :   24
+  [z = zone, j = junction, t = terminal]
+Arrays: 74252 bytes allocated, 34028 freed, 40224 net
+Start: 75867 bytes allocated, 34548 freed, 41319 net
+Running steady-state initialization:
+ DATE: Jan07   time: 09:00:00
+End Steady-state Initialization
+      10 calls to FillAf()
+       6 calls to luf_sky_s()
+
+Solving mass transport system with trapezoidal solver 
+
+set_urst_init():
+  nzone 11, npath 47, nctm 1, njct 12, ndct 6
+  ncss+nbls+ndvr 10, nctrl 0, date0 7, date1 7
+  SizeData 2576
+
+     375 time steps
+     375 time step iterations
+     379 calls to SolveAf()
+    1064 calls to FillAf()
+     679 calls to luf_sky_s()
+     679 calls to lus_sky_s()
+     375 calls to solve_Mft()
+     375 calls to luf_sky_n()
+     375 calls to lus_sky_n()
+
+NR its. :    0    1    2    3    4    5    6    7    8    9   10   11
+JfacBins:    2  132  230    3    6    1    0    1    0    0    3    1
+
+rangeDWC: 0 lam, 0 trns, 0 turbulent
+
+Maximum air exchange rate: ~123.4 ACH in zone 5 at 14:01:00 on Jan07
+Minimum gage pressure: -9.0 Pa in zone 6 at 14:00:00 on Jan07
+Maximum gage pressure: 3.7 Pa in junction 2 at 14:00:00 on Jan07
+Minimum gage pressure: -3.7 Pa in junction 1 at 14:00:00 on Jan07
+
+End: 77459 bytes allocated, 37235 freed, 40224 net
+Final: 77459 bytes allocated, 77459 freed, 0 net
+Simulation completed successfully.
